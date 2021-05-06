@@ -1,5 +1,5 @@
 ## Changelog
-#### Version 4.3.5 & 1
+#### Version 4.3.6 & 1
 
 ##### 时间：
 
@@ -13,7 +13,7 @@
 
 ##### 下载地址：
 
-itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/liushuai-fotoable/SDK_Demo/main/FORADS/manifest_4.3.5.1.plist
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/liushuai-fotoable/SDK_Demo/main/FORADS/manifest_4.3.6.1.plist
 
 #### Version 4.3.2 & 0
 
