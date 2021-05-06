@@ -1,4 +1,20 @@
 ## Changelog
+#### Version 4.3.5 & 1
+
+##### 时间：
+
+2021.5.6
+
+##### 修改内容：
+
+1. 升级Unity V3.7.1
+2. 升级Admob V8.4.0
+3. 私有库测试
+
+##### 下载地址：
+
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/liushuai-fotoable/SDK_Demo/main/FORADS/manifest_4.3.5.1.plist
+
 #### Version 4.3.2 & 0
 
 ##### 时间：
@@ -17,6 +33,8 @@ itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/
 
 
 > 把下载地址copy到浏览器上下载。
+>
+> 四位版本号时，前三位为发版版本号，第四位为测试号
 
 
 
