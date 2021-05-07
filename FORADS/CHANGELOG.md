@@ -11,6 +11,7 @@
 2. 升级Admob V8.4.0 & adapter 1.0.11
 3. 公有库测试
 4. Debug 为NO
+5. Admob、Unity SKAdnetwork更新
 
 ##### 下载地址：
 
