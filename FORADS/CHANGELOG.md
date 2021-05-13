@@ -1,4 +1,24 @@
 ## Changelog
+#### Version 4.3.7 & 1
+
+##### 时间：
+
+2021.5.13
+
+##### 修改内容：
+
+1. 升级Pangle V3.5.1.2 & adapter 1.0.2.1
+2. 升级Vungle V6.10.0 & adapter 1.0.8.3 
+3. 升级Adcolony V4.6.0 & adapter 1.0.6.5 
+4. Pangle、Vungle、Adcolony SKAdnetwork更新
+5. 变现联盟减少对CTTelephonyNetworkInfo API的访问频率
+6. 变现联盟的运营商字段，暂不提供
+7. Debug 为YES
+
+##### 下载地址：
+
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/liushuai-fotoable/SDK_Demo/main/FORADS/manifest_4.3.7.1.plist
+
 #### Version 4.3.6 & 4
 
 ##### 时间：
