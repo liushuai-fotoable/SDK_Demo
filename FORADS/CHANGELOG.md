@@ -46,7 +46,7 @@ Debug 为YES、内推只能用develop环境
 
 ##### 下载地址：
 
-itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/liushuai-fotoable/SDK_Demo/main/FORADS/manifest_4.3.7.2.plist
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/liushuai-fotoable/SDK_Demo/main/FORADS/manifest_4.3.7.3.plist
 
 #### Version 4.3.7 & 2
 
