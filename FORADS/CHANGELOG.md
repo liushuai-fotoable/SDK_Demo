@@ -36,7 +36,7 @@
 3. 内推减少对CTTelephonyNetworkInfo API的访问频率
 4. 内推的运营商字段，暂不提供 
 
-Debug 为YES、内推只能用develop环境
+Debug 为YES
 
 > 此版本废弃的需求：
 >
