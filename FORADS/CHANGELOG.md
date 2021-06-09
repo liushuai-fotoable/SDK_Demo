@@ -3,6 +3,45 @@
 >
 > 四位版本号时，前三位为发版版本号，第四位为测试号
 
+#### Version 4.3.9 & 4
+
+##### 时间：
+
+2021.6.9
+
+##### 修改内容：
+
+新需求：
+
+1.  内推添加清理模块
+2.  内推新增物料缓存成功及失败、展示失败、缓存清理打点，失败时，通过msg上报原因
+3.  内推增加点全屏击区域开关控制，默认YES
+4.  变现联盟Vungle降级为6.9.2 & adapter 1.0.8.4
+5.  变现联盟添加有缓存、无缓存、展示失败、低内存 打点上报
+
+线上bug修复：  
+
+1.  变现联盟unity请求日志修正
+2.  变现联盟Vungle请求日志修正
+3.  内推的close事件从WillClose 切换到didClose
+
+疑似bug尝试修复：
+
+1.  修复内推的LogEvent崩溃问题
+
+优化：
+
+1. 变现联盟md5警告消除
+2. 删除废弃代码
+
+Debug 为YES，私有库版本测试 
+
+> 变现联盟的预加载日志，添加顺序，此需求由服务器做，SDK不做了
+
+##### 下载地址：
+
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/liushuai-fotoable/SDK_Demo/main/FORADS/manifest_4.3.9.4.plist
+
 #### Version 4.3.9 & 3
 
 ##### 时间：
