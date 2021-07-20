@@ -3,6 +3,57 @@
 >
 > 四位版本号时，前三位为发版版本号，第四位为测试号
 
+#### Version 4.4.0 & 4
+
+##### 时间：
+
+2021.7.20
+
+##### 修改内容：
+
+新需求： 
+
+- [x] 所有渠道的SKAdNetWork更新
+- [x] 第三方指定版本，不再允许小范围内版本浮动 
+- [x] Facebook 升级 adatper  V6.5.0
+- [x] Admob升级 adapter V8.6.0
+- [x] Ironsource升级 adapter V7.1.6.1
+- [x] AppLovin升级 adapter   V10.3.2（接口变动）
+- [x] Mopub升级 adapter V5.17.0
+- [x] Unity升级升级 adapter   V3.7.2
+- [x] Chartboost升级 adapter  V8.4.2
+- [x] Pangle升级 adapter  V3.7.0.5（接口变动）
+- [x] Tapjoy升级 adapter V12.8.1
+- [x] Adcolony 升级 adapter   V4.6.1
+- [x] mintegral接入（waterfall）adapter  V6.9.5.0  $\textcolor{red}{更改为正式广告ID} $  
+- [x] mintegral接入 （bidding） adapter  V6.9.5.0 $\textcolor{red}{更改为正式广告ID} $
+- [x] 添加是否是测试环境
+
+线上bug修复：   
+
+- [x] Mopub修复delegate回调异常的问题
+- [x] 内推和客服存在分类的冲突的问题
+- [x] 配置文件标记为False时，集成界面同步显示为未集成
+
+疑似bug尝试修复： 
+
+优化： 
+
+- [x] FTCore修改分类命名发版
+- [x] FTLogger修改分类命名发版
+- [x] Vungle 指定三方库   6.9.2
+- [x] 变现联盟、内推根据infer修复相关问题 
+  - [x] 内推修改字典转JSON
+  - [x] 内推删除废弃方法
+- [x] 变现联盟底层回调方式更改，字典转maptable
+- [x] 此版本pod引入 客服、BI、登录、支付SDK
+
+Debug 为YES，私有库版本测试  
+
+##### 下载地址：
+
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/liushuai-fotoable/SDK_Demo/main/FORADS/manifest_4.4.0.4.plist
+
 #### Version 4.4.0 & 3
 
 ##### 时间：
