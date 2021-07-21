@@ -3,11 +3,11 @@
 >
 > 四位版本号时，前三位为发版版本号，第四位为测试号
 
-#### Version 4.4.0 & 6
+#### Version 4.4.0 & 7
 
 ##### 时间：
 
-2021.7.20
+2021.7.21
 
 ##### 修改内容：
 
@@ -16,7 +16,7 @@
 - [x] 所有渠道的SKAdNetWork更新
 - [x] 第三方指定版本，不再允许小范围内版本浮动 
 - [x] Facebook 升级 adatper  V6.5.0
-- [x] Admob升级 adapter V8.6.0
+- [x] Admob升级 adapter V8.8.0 $\textcolor{red}{升级8.8.0} $  
 - [x] Ironsource升级 adapter V7.1.6.1
 - [x] AppLovin升级 adapter   V10.3.2（接口变动）
 - [x] Mopub升级 adapter V5.17.0
@@ -52,7 +52,7 @@ Debug 为YES，私有库版本测试
 
 ##### 下载地址：
 
-itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/liushuai-fotoable/SDK_Demo/main/FORADS/manifest_4.4.0.6.plist
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/liushuai-fotoable/SDK_Demo/main/FORADS/manifest_4.4.0.7.plist
 
 #### Version 4.4.0 & 3
 
