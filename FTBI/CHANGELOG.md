@@ -3,7 +3,7 @@
 >
 > 四位版本号时，前三位为发版版本号，第四位为测试号
 
-#### Version 3.2.0 & 1
+#### Version 3.2.0 & 2
 
 ##### 时间：
 
@@ -24,7 +24,7 @@ Debug 为YES，debug版本测试
 
 ##### 下载地址：
 
-itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/liushuai-fotoable/SDK_Demo/main/FTBI/manifest_3.2.0.plist
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/liushuai-fotoable/SDK_Demo/main/FTBI/manifest_3.2.0.2.plist
 
 
 
