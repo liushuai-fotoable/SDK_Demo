@@ -3,6 +3,36 @@
 >
 > 四位版本号时，前三位为发版版本号，第四位为测试号
 
+#### Version 4.4.1 &1
+
+##### 时间：
+
+2021.08.05
+
+##### 修改内容：
+
+新需求： 
+
+- [x] Mintegral的SKAdNetWork更新
+- [x] Adcolony的SKAdNetWork更新
+- [x] Mintegral 升级 adatper  V6.9.6.2
+- [x] Adcolony升级 adapter V4.7.0.1 
+- [x] 更新Adapter命名方式，第三方版本号+SDK版本号命名，如：AdcolongAdapter V4.7.0.1 , 4.7.0是Adcolony版本号，1是SDK版本号
+
+线上bug修复：   
+
+疑似bug尝试修复： 
+
+优化： 
+
+- [x] Mintegral判断缓存，添加id判空
+
+Debug 为YES​​，私有库版本测试 
+
+##### 下载地址：
+
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/liushuai-fotoable/SDK_Demo/main/FORADS/manifest_4.4.1.1.plist
+
 #### Version 4.4.0 & 9
 
 ##### 时间：
