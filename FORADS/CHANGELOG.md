@@ -3,6 +3,37 @@
 >
 > 四位版本号时，前三位为发版版本号，第四位为测试号
 
+#### Version 4.4.2 &1
+
+##### 时间：
+
+2021.08.10
+
+##### 修改内容：
+
+新需求： 
+
+- [ ] Facebook接入Banner
+- [ ] IronSource接入Banner
+- [ ] Mopub 接入Banner
+- [ ] 去掉内置的JSON请求（首次安装，断网情况下启动后，会无广告请求）
+- [ ] 变现联盟日志SDK引入 OSLOG，替换NSLOg，提供全新日志查询方案
+- [ ] 更新Adapter命名方式，第三方版本号+SDK版本号命名，如：AdcolongAdapter V4.7.0.1 , 4.7.0是Adcolony版本号，1是SDK版本号
+
+线上bug修复：    
+
+疑似bug尝试修复： 
+
+优化：  
+
+Debug 为YES，私有库版本测试
+
+##### 下载地址：
+
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/liushuai-fotoable/SDK_Demo/main/FORADS/manifest_4.4.1.3.plist
+
+#### Version 4.4.1 &2
+
 #### Version 4.4.1 &3
 
 ##### 时间：
