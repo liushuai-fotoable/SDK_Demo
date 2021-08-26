@@ -3,7 +3,7 @@
 >
 > 四位版本号时，前三位为发版版本号，第四位为测试号
 
-#### Version 4.4.5 &6
+#### Version 4.4.5 &7
 
 ##### 时间：
 
@@ -46,7 +46,7 @@ Debug 为YES，$\textcolor{red}{公有库版本测试 } $
 
 ##### 下载地址：
 
-itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/liushuai-fotoable/SDK_Demo/main/FORADS/manifest_4.4.5.6.plist
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/liushuai-fotoable/SDK_Demo/main/FORADS/manifest_4.4.5.7.plist
 
 #### Version 4.4.5 &5
 
