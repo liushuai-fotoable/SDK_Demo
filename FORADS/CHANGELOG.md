@@ -3,7 +3,52 @@
 >
 > 四位版本号时，前三位为发版版本号，第四位为测试号
 
-#### Version 4.4.5 &2（开发中）
+#### Version 4.4.5 &3（开发中）
+
+##### 时间：
+
+2021.08.26
+
+##### 修改内容：
+
+新需求： 
+
+- [x] 变现联盟日志SDK引入 OSLOG，替换NSLOg，提供全新日志查询方案
+- [x] 更新Adapter命名方式，第三方版本号+SDK版本号命名，如：AdcolongAdapter V4.7.0.1 , 4.7.0是Adcolony版本号，1是SDK版本号
+- [x] 适配Unity图形化配置参数（相当于重构了Unity端出包逻辑）
+- [x] 修改本队日志打印规则，只有debug状态下才能输出日志
+- [x] 配置文件，去掉Enable选项，原生段会检测1、三方包是否存在，2、相关key是否有，只有在这两者都具备的情况下，Enable为YES
+
+线上bug修复：    
+
+- [x] 修复部分服务器返回的异常数据，导致的崩溃
+- [x] 修复再缺少内置JSON情况下，导致的崩溃
+
+疑似bug尝试修复：
+
+​	无 
+
+优化：
+
+​	无  
+
+部分测试用例：
+
+1. OSLOG日志查询流程，看是否能导出日志
+2. Unity 配置后，看是否测试界面可以生成相关ID
+3. debug为YES，会有OSLOG日志输出，为NO，无OSLOG日志输出
+4. 在缺少部分渠道，或者部分初始化key的情况下，是否有异常
+5. 在缺少内置JSON文件，在首次安装&断网的情况下，启动是否有异常
+6. 常规广告回归（包含内推）
+7. SKADNetworksItems是否包含
+
+Debug 为$\textcolor{red}{NO } $，私有库版本测试
+
+##### 下载地址：
+
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/liushuai-fotoable/SDK_Demo/main/FORADS/manifest_4.4.5.3.plist
+
+#### Version 4.4.5 &2
 
 ##### 时间：
 
