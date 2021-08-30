@@ -20,7 +20,7 @@
 
 无
 
-Debug 为YES，Release版本测试
+Debug 为YES，私有库测试
 
 
 
