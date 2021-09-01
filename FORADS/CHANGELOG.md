@@ -3,6 +3,42 @@
 >
 > 四位版本号时，前三位为发版版本号，第四位为测试号
 
+#### Version 4.4.6 &1
+
+##### 时间：
+
+2021.08.31
+
+##### 修改内容：
+
+新需求： 
+
+- [x] Facebook 升级 6.5.0-》6.6.0
+- [x] Facebook更新SKADNetworksItems（未变化）
+- [x] 更新Adapter命名方式，第三方版本号+SDK版本号命名，如：AdcolongAdapter V4.7.0.1 , 4.7.0是Adcolony版本号，1是SDK版本号
+
+线上bug修复：    
+
+​	无
+
+疑似bug尝试修复：
+
+​	无 
+
+优化：
+
+​	无  
+
+部分测试用例：
+
+1. Facebook常规回归
+
+Debug 为YES，公有库版本测试
+
+##### 下载地址：
+
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/liushuai-fotoable/SDK_Demo/main/FORADS/manifest_4.4.6.1.plist
+
 #### Version 4.4.5 &7
 
 ##### 时间：
