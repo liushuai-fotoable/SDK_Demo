@@ -3,6 +3,27 @@
 >
 > 四位版本号时，前三位为发版版本号，第四位为测试号
 
+#### Version 3.2.4 & 1
+
+##### 时间：
+
+2021.09.07
+
+##### 修改内容：
+
+新需求：
+
+1. 升级Appsfleyer 6.2.5
+2. 处理Vungle 6.9.1命名冲突问题
+
+疑似bug尝试修复： 
+
+Debug 为YES，私有库测试 
+
+##### 下载地址：
+
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/liushuai-fotoable/SDK_Demo/main/FTBI/manifest_3.2.4.1.plist
+
 #### Version 3.2.3 & 2
 
 ##### 时间：
