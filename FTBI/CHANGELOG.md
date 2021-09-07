@@ -13,7 +13,7 @@
 
 新需求：
 
-1. 升级Appsfleyer 6.2.5
+1. 升级Appsfleyer 6.3.5
 2. 处理Vungle 6.9.1命名冲突问题
 
 疑似bug尝试修复： 
